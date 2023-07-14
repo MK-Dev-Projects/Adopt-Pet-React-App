@@ -1,4 +1,4 @@
-# Server-Side-Rendering in React-App
+# Adopt-Pet-MK
 
 ## => Adopt-Pet-SSR is a dynamic web application that incorporates Server-Side-Rendering (SSR). By rendering components on the server before sending them to the client, it ensures faster initial page loads and improves search engine optimization. Experience the benefits of server-side rendering in this innovative React project.
 
@@ -19,13 +19,13 @@
 2. First, you need to open a `Terminal` in your system and `Clone` this repository by using :
 
 ```bash
-git clone https://github.com/Mk4Levi/Server-Side-Rendering-React.git
+git clone https://github.com/Mk4Levi/Adopt-Pet-MK.git
 ```
 
 3. Navigate to the Project's directory :
 
 ```bash
-cd Server-Side-Rendering-React
+cd Adopt-Pet-MK
 ```
 
 4. Install all Dependencies used in this Project :
@@ -34,28 +34,16 @@ cd Server-Side-Rendering-React
 npm install
 ```
 
-5. Run Build for the Client-Side :
-
-```bash
-npm run build:client
-```
-
-6. Run Build for the Server-Side :
-
-```bash
-npm run build:server
-```
-
 7. Finally, host it on local server :
 
 ```bash
-npm run start
+npm run dev
 ```
 
 8. Now just search this link in your browser to view the live running application in your Local sysytem :
 
 ```bash
-http://localhost:3001
+http://localhost:5173
 ```
 
 <h2>Paths & Files</h2>
