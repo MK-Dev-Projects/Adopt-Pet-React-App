@@ -4,11 +4,13 @@
 
 ## Website Link => https://adopt-pet-mk.vercel.app/
 
+## Website Link => https://adopt-pet-mk.netlify.app/
+
 ## Project's Screenshots =>
 
-![image](./src/assets/img/ss1.png)
-![image](./src/assets/img/ss2.png)
-![image](./src/assets/img/ss3.png)
+![image](./src/assets/ss1.png)
+![image](./src/assets/ss2.png)
+![image](./src/assets/ss3.png)
 
 <h2>Getting Started</h2>
 

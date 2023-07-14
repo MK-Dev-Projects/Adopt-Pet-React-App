@@ -6,10 +6,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build:client": "vite build --outDir ../dist/client",
-    "build:server": "vite build --outDir ../dist/server",
-    "build": "npm run build:client && npm run build:server",
-    "start": "node server.js",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
