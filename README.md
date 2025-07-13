@@ -1,5 +1,5 @@
 ngghhgfbhjhhgghgghggghhgg21 Adopt-Pet-MKh
-
+n
 ## => Adopt-Pet-SSR is a dynamic web application that incorporates Server-Side-Rendering (SSR). By rendering components on the server before sending them to the client, it ensures faster initial page loads and improves search engine optimization. Experience the benefits of server-side rendering in this innovative React project.
 
 ## Website Link => https://adopt-pet-mk.vercel.app/
